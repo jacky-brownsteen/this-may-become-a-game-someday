@@ -1,2 +1,9 @@
-# this-may-become-a-game-someday
-Experimental game project to learn Gamedev and Godot - maybe even Gimp and Blender at some point. Let's see what happens :) I want to have fun.
+# This may become a game someday, who knows
+Well, like the title says, there may be a chance, this project becomes a game at some point in the (far) future. Or maybe not. I am having my fun with learning anyways and I hope one or the other can also have a little fun with my project.<br>
+<br>
+Leave me some feedback in the issue section if you like :)<br>
+<br>
+<br>
+### Credits
+I used some open art I found online. Here are the credits:
+* tbd
