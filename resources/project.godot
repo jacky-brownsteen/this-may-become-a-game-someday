@@ -10,8 +10,14 @@ config_version=4
 
 [application]
 
-config/name="resources"
+config/name="Maybe a Game"
+run/main_scene="res://Scenes/Environment/Game.tscn"
 config/icon="res://icon.png"
+
+[display]
+
+window/size/width=1536
+window/size/height=1024
 
 [physics]
 
