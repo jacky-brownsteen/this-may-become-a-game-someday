@@ -6,4 +6,6 @@ Leave me some feedback in the discussion section if you like :)<br>
 <br>
 ### Credits
 I used some open art I found online. Here are the credits:
-* tbd
+* Good Morning by Cakeflaps @ You're Perfect Studio - https://opengameart.org/content/good-morning
+* Stasis by Trevor Lentz - https://opengameart.org/content/stasis
+* OpenGameArt.org Theme (A Better World) by Trevor Lentz - https://opengameart.org/content/opengameartorg-theme-a-better-world

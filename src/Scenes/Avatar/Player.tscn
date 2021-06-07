@@ -1,0 +1,29 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://assets/Images/Avatar_Down_04_128x128.png" type="Texture" id=1]
+[ext_resource path="res://src/Scenes/Avatar/Player.gd" type="Script" id=2]
+[ext_resource path="res://assets/Images/Avatar_Down_01_128x128.png" type="Texture" id=3]
+[ext_resource path="res://assets/Images/Avatar_Down_02_128x128.png" type="Texture" id=4]
+[ext_resource path="res://assets/Images/Avatar_Down_03_128x128.png" type="Texture" id=5]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ), ExtResource( 1 ) ],
+"loop": true,
+"name": "down",
+"speed": 5.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 25.6831, 57.6825 )
+
+[node name="Player" type="Area2D"]
+script = ExtResource( 2 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+frames = SubResource( 1 )
+animation = "down"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 2, 6 )
+shape = SubResource( 2 )

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cakeflaps - Good Morning.wav-f37eaa97a589a0ef494f96f45c4bdd41.sample"
+
+[deps]
+
+source_file="res://assets/Audio/Cakeflaps - Good Morning.wav"
+dest_files=[ "res://.import/Cakeflaps - Good Morning.wav-f37eaa97a589a0ef494f96f45c4bdd41.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

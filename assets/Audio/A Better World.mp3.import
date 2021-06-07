@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/A Better World.mp3-9b35eb3b2f30ad742e4466240a7705c5.mp3str"
+
+[deps]
+
+source_file="res://assets/Audio/A Better World.mp3"
+dest_files=[ "res://.import/A Better World.mp3-9b35eb3b2f30ad742e4466240a7705c5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
