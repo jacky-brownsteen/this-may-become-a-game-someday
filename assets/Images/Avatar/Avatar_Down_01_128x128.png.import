@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Avatar_Down_01_128x128.png-09caca1b8583b0365177bf269f0ea2ec.stex"
+path="res://.import/Avatar_Down_01_128x128.png-227dd0c9213f89016e7ad575323a85fd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Images/Avatar_Down_01_128x128.png"
-dest_files=[ "res://.import/Avatar_Down_01_128x128.png-09caca1b8583b0365177bf269f0ea2ec.stex" ]
+source_file="res://assets/Images/Avatar/Avatar_Down_01_128x128.png"
+dest_files=[ "res://.import/Avatar_Down_01_128x128.png-227dd0c9213f89016e7ad575323a85fd.stex" ]
 
 [params]
 
